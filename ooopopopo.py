@@ -1,6 +1,1 @@
-happi ->
-happi -> 
-HAPIIIII ->
-main() {
-return happy;
-}
+print ('hello')
